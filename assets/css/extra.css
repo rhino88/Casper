@@ -1,0 +1,28 @@
+.home-template .post-feed {
+    padding-top: 0;
+    margin-top: 40px;
+}
+
+.site-header {
+  border-bottom: 3px solid #15171a;
+}
+
+.site-nav-logo {
+  padding: 0px;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6,
+.nav li a {
+  font-family: Montserrat,sans-serif;
+}
+
+.read-next-card,
+.post-card,
+.post-card-image-link {
+  border-radius: 1px;
+}
