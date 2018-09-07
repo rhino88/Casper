@@ -1,7 +1,6 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
+    "name": "draugur",
+    "description": "A personalized fork of Casper",
     "version": "2.6.1",
     "engines": {
         "ghost": ">=2.0.0"
@@ -16,11 +15,7 @@
         "zip": "gulp zip",
         "test": "gscan ."
     },
-    "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
-    },
+    "author": "Ryan Anderson",
     "gpm": {
         "type": "theme",
         "categories": [
@@ -35,10 +30,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/rhino88/Draugur"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
+    "bugs": "https://github.com/rhino88/Draugur/issues",
+    "contributors": "https://github.com/rhino88/Draugur/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",
