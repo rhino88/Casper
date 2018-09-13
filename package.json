@@ -1,7 +1,7 @@
 {
     "name": "draugur",
     "description": "A personalized fork of Casper",
-    "version": "2.6.1",
+    "version": "2.6.2",
     "engines": {
         "ghost": ">=2.0.0"
     },
