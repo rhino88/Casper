@@ -15,7 +15,7 @@
         "zip": "gulp zip",
         "test": "gscan ."
     },
-    "author": "Ryan Anderson",
+    "author": {"email": "andersra88@gmail.com"},
     "gpm": {
         "type": "theme",
         "categories": [
